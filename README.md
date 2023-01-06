@@ -10,5 +10,6 @@ It has been tested only on macOS
 $ ./build.sh
 ```
 
+## license
 Copyright 2022 KoharuYuzuki  
 MIT license (https://opensource.org/licenses/MIT)
