@@ -7,6 +7,8 @@ referred to https://github.com/hrhr49/wasm_open_jtalk
 ## build
 It has been tested only on macOS
 ```
+$ git clone https://github.com/KoharuYuzuki/openjtalk-wasm.git
+$ cd openjtalk-wasm
 $ ./build.sh
 ```
 
